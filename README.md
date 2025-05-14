@@ -42,3 +42,38 @@ for query in queries:
     print(f"Chatbot: {process_query(query)}")
     print()
 ```
+
+
+Output:
+```
+User: Hello
+Chatbot: Hello! How can I assist you?
+
+User: I need some assistance
+Chatbot: What do you need help with?
+
+User: Bye
+Chatbot: Goodbye! Have a great day.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
